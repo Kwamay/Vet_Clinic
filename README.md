@@ -55,7 +55,7 @@ Example commands:
 
 ```sh
   cd my-folder
-  git clone https://github.com/NoelLincoln/vetclinic-db.git
+  git clone https://github.com/Kwamay/Vet_Clinic.git
 ```
 
 
@@ -83,7 +83,7 @@ Example commands:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/NoelLincoln/vetclinic-db/issues).
+Feel free to check the [issues page](https://github.com/Kwamay/Vet_Clinic/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
