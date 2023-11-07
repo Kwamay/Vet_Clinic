@@ -3,11 +3,13 @@
 - [📖 About the Project](#about-project)
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
+     - [Key Features](#key-features)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
   - [Usage](#usage)
 - [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
@@ -29,6 +31,16 @@
     <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
   </ul>
 </details>
+
+<!--Key Features -->
+
+### Key Features <a name="key-features"></a>
+
+- **Database of animals**
+- **Treatments for animals**
+- **Assessment of animals**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
 
@@ -74,6 +86,14 @@ Example commands:
 - GitHub: [@githubhandle](https://github.com/Kwamay)
   LinkedIn: [Kwamay Adu](https://linkedin.com/in/кωαмαу-adu)
 
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- FUTURE FEATURES -->
+
+## 🔭 Future Features <a name="future-features"></a>
+
+- [ ] **Add animal immunization**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
