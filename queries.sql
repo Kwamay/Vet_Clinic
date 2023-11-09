@@ -47,7 +47,6 @@ BEGIN;
 UPDATE animals
 SET species = 'unspecified';
 
-
 -- Verify that change was made. Then roll back the change and verify that the species columns went back to the state before the transaction.
 SELECT * FROM animals; -- species column = unspecified
 ROLLBACK;
@@ -66,6 +65,9 @@ WHERE name LIKE '%mon';
 UPDATE animals
 SET species = 'pokemon'
 WHERE species IS NULL;
+
+-- Verification step before COMMIT
+SELECT * FROM animals;
 
 COMMIT;
 
